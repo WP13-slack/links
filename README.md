@@ -1,3 +1,7 @@
+## Git
+[Git flow](http://nvie.com/posts/a-successful-git-branching-model/)<br/>
+[AngularDarts commit guidelines](https://github.com/angular/angular.dart/blob/master/CONTRIBUTING.md#-git-commit-guidelines)<br/>
+
 ## Javascript
 [The origin of javascript with Brendan Eich](http://javascriptjabber.com/124-jsj-the-origin-of-javascript-with-brendan-eich/)<br/>
 [Animating without jquery](http://www.smashingmagazine.com/2014/09/04/animating-without-jquery/)<br/>
