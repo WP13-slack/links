@@ -14,6 +14,7 @@
 
 ## PHP
 [Roll your own templating system in php](http://code.tutsplus.com/tutorials/roll-your-own-templating-system-in-php--net-16596)<br/>
+[Understanding MVC](https://stackoverflow.com/questions/16594907/understanding-mvc-views-in-php/16596704#16596704)<br/>
 
 ## Verktyg
 [yUML](http://yuml.me/) - För att rita enklare UML diagram snabbt<br/>
