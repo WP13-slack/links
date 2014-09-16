@@ -23,6 +23,9 @@
 [Roll your own templating system in php](http://code.tutsplus.com/tutorials/roll-your-own-templating-system-in-php--net-16596) - tutorial  
 [Understanding MVC](https://stackoverflow.com/questions/16594907/understanding-mvc-views-in-php/16596704#16596704)  
 
+## Resurser
+[Svenska API-katalogen](http://apikatalogen.se/) - Databas med öppna svenska API:er  
+
 ## Verktyg
 [draw.io](https://www.draw.io/) - Designa olika typer av diagram direkt i webbläsaren  
 [yUML](http://yuml.me/) - För att rita enklare UML diagram snabbt  
