@@ -11,8 +11,8 @@
 
 ## Javascript
 [Skate.js - custom elements](https://github.com/skatejs/skatejs/blob/master/README.md) - framework  
-[Learning advanced Javascript](http://ejohn.org/apps/learn/) - video  
-[The Origin of javascript with Brendan Eich](http://javascriptjabber.com/124-jsj-the-origin-of-javascript-with-brendan-eich/) - audio  
+[Learning advanced JavaScript](http://ejohn.org/apps/learn/) - interactive    
+[The Origin of JavaScript with Brendan Eich](http://javascriptjabber.com/124-jsj-the-origin-of-javascript-with-brendan-eich/) - audio  
 [Animating without jQuery](http://www.smashingmagazine.com/2014/09/04/animating-without-jquery/) - tutorial  
 [ES6 modules final](http://www.2ality.com/2014/09/es6-modules-final.html) - tutorial  
 [hello.js - Javascript OAuth and REST library](http://adodson.com/hello.js/)  
