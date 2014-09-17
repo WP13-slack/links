@@ -3,7 +3,7 @@
 
 ## CSS
 [Elements with height 100 percent fixed amount](http://www.codelord.net/2014/09/08/css-tip-elements-with-height-100-percent-fixed-amount/) - tutorial  
-[Pure](http://purecss.io/) - small responsive CSS modules
+[Pure](http://purecss.io/) - small responsive CSS modules  
 [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) - tutorial  
 
 ## Git
