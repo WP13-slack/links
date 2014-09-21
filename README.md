@@ -23,6 +23,7 @@
 ## PHP
 [Roll your own templating system in php](http://code.tutsplus.com/tutorials/roll-your-own-templating-system-in-php--net-16596) - tutorial  
 [Understanding MVC](https://stackoverflow.com/questions/16594907/understanding-mvc-views-in-php/16596704#16596704)  
+[Why you Should be using PHP's PDO](http://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059) - tutorial  
 
 ## Resurser
 [Svenska API-katalogen](http://apikatalogen.se/) - Databas med öppna svenska API:er  
