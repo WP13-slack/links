@@ -20,7 +20,7 @@ Git
 
 IDE
 ---
-[JetBrain](http://www.jetbrains.com/student/) - Free IDEs for languges such as Java, Python and PHP  
+[JetBrain](http://www.jetbrains.com/student/) - Free IDEs for languges such as Java, Python and student prices for others, like PHP  
 
 JavaScript
 ----------
