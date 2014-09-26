@@ -18,6 +18,10 @@ Git
 [Git flow](http://nvie.com/posts/a-successful-git-branching-model/)  
 [AngularDarts commit guidelines](https://github.com/angular/angular.dart/blob/master/CONTRIBUTING.md#-git-commit-guidelines)  
 
+IDE
+---
+[JetBrain](http://www.jetbrains.com/student/) - Free IDEs for languges such as Java, Python and PHP  
+
 JavaScript
 ----------
 [Skate.js - custom elements](https://github.com/skatejs/skatejs/blob/master/README.md) - framework   
