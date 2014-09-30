@@ -36,6 +36,7 @@ JavaScript
 [Creating An Application With Sails.js, Angular.js and Require.js Part 2 – Adding Dependencies](http://modernweb.com/2014/08/05/create-an-app-sails-angular-require-pt-2/) - tutorial  
 [Chartist.js - simple responsive charts](http://gionkunz.github.io/chartist-js/index.html) - library  
 [Node.js Best Practices](http://blog.risingstack.com/node-js-best-practices/) - tutorial / best practices  
+[Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/) - automatic scaling of text, lib / framework  
 
 PHP
 ---
