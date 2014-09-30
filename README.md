@@ -11,7 +11,7 @@ CSS
 [Bootsnip](http://bootsnipp.com/) - addon  
 [Bootstrap Calender](http://bootstrap-calendar.azurewebsites.net/) - addon  
 [Bootstrap date/time picker](http://tarruda.github.io/bootstrap-datetimepicker/) - addon  
-[Bootstrap Tags Input](http://timschlechter.github.io/bootstrap-tagsinput/examples/) - addon
+[Bootstrap Tags Input](http://timschlechter.github.io/bootstrap-tagsinput/examples/) - addon  
 [Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme
 
 Git
