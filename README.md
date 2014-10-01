@@ -52,7 +52,8 @@ Verktyg
 -------
 [draw.io](https://www.draw.io/) - Designa olika typer av diagram direkt i webbläsaren  
 [.NET Fiddle](https://dotnetfiddle.net/) - Kör C#/.NET snippets i webbläsaren  
-[Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)    
+[Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)
+[Taiga](https://tree.taiga.io/) - Ett webbaserat vektyg för projekthantering. Hanterar SCRUM, KANBAN dokumentation i markdown och annat
 
 UML / Notation / Software Design
 --------------------------------
