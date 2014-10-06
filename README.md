@@ -62,6 +62,7 @@ Verktyg
 
 UML / Notation / Software Design
 --------------------------------
+[Gliffy](https://www.gliffy.com/) - Draw UML and Sequence diagram in the browser  
 [yUML](http://yuml.me/) - För att rita enklare UML-diagram snabbt  
 [Web Sequence Diagrams](https://www.websequencediagrams.com/) - För att rita sekvensdiagram snabbt  
 
