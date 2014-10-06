@@ -1,3 +1,8 @@
+Bra att tänka på
+----------------
+[Best practices](https://github.com/timoxley/best-practices)
+[SOLID design principle](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+
 C#
 --
 [Unit Test Generator for VS](http://visualstudiogallery.msdn.microsoft.com/45208924-e7b0-45df-8cff-165b505a38d7)   
@@ -21,7 +26,7 @@ Git
 
 IDE
 ---
-[JetBrain](http://www.jetbrains.com/student/) - Free IDEs for languges such as Java, Python and PHP  
+[JetBrains](http://www.jetbrains.com/student/) - Free IDEs for languges such as Java, Python and PHP  
 
 JavaScript
 ----------
