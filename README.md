@@ -1,7 +1,7 @@
 Bra att tänka på
 ----------------
-[Best practices](https://github.com/timoxley/best-practices)
-[SOLID design principle](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+[Best practices](https://github.com/timoxley/best-practices)  
+[SOLID design principle](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)  
 
 C#
 --
