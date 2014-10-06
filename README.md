@@ -42,6 +42,11 @@ JavaScript
 [Chartist.js - simple responsive charts](http://gionkunz.github.io/chartist-js/index.html) - library  
 [Node.js Best Practices](http://blog.risingstack.com/node-js-best-practices/) - tutorial / best practices  
 [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/) - automatic scaling of text, lib / framework  
+[Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html) - angular promises / async, tutorial & intro  
+[Preparing for ECMAScript 6: New String Methods](http://www.sitepoint.com/preparing-ecmascript-6-new-string-methods/) - es 6 string.prototype.methods, tutorial & intro  
+[Preparing for ECMAScript 6: New Array Methods](http://www.sitepoint.com/preparing-ecmascript-6-new-array-methods/) - es 6 array.prototype.methods, tutorial & intro    
+[Taking Angular Mobile UI Further in Cross Platform Apps](http://www.sitepoint.com/taking-angular-mobile-ui-cross-platform-apps) - angular for mobile, intro & tutorial  
+[Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/) node security, best practices & guide  
 
 PHP
 ---
