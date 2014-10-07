@@ -56,6 +56,7 @@ PHP
 
 Resurser
 --------
+[Github Student Developer Pack](https://education.github.com/pack) - Massa gratis saker för oss :)
 [Svenska API-katalogen](http://apikatalogen.se/) - Databas med öppna svenska API:er  
 
 Verktyg
