@@ -12,8 +12,9 @@ CSS
 [Elements with height 100 percent fixed amount](http://www.codelord.net/2014/09/08/css-tip-elements-with-height-100-percent-fixed-amount/) - tutorial  
 [Pure](http://purecss.io/) - small responsive CSS modules  
 [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) - tutorial  
-[Jasny Bootstrap](http://jasny.github.io/bootstrap/) - addon  
-[Bootsnip](http://bootsnipp.com/) - addon  
+[Jasny Bootstrap](http://jasny.github.io/bootstrap/) - addon 
+[Bootswatch](http://bootswatch.com/) - high quality, free themes for bootstrap  
+[Bootsnip](http://bootsnip.com/) - addon  
 [Bootstrap Calender](http://bootstrap-calendar.azurewebsites.net/) - addon  
 [Bootstrap date/time picker](http://tarruda.github.io/bootstrap-datetimepicker/) - addon  
 [Bootstrap Tags Input](http://timschlechter.github.io/bootstrap-tagsinput/examples/) - addon  
