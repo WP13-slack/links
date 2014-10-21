@@ -59,13 +59,14 @@ PHP
 
 Resurser
 --------
-[Github Student Developer Pack](https://education.github.com/pack) - Massa gratis saker för oss :)
-[Svenska API-katalogen](http://apikatalogen.se/) - Databas med öppna svenska API:er  
+[Github Student Developer Pack](https://education.github.com/pack) - Free stuff for students  
+[Svenska API-katalogen](http://apikatalogen.se/) - Database with open swedish API's  
+[Google Material Design Icons](https://github.com/google/material-design-icons) - Free to use icons for the web  
 
 Verktyg
 -------
-[draw.io](https://www.draw.io/) - Designa olika typer av diagram direkt i webbläsaren  
-[.NET Fiddle](https://dotnetfiddle.net/) - Kör C#/.NET snippets i webbläsaren  
+[draw.io](https://www.draw.io/) - Design diffrent types of diagrams in the browser  
+[.NET Fiddle](https://dotnetfiddle.net/) - Run C#/.NET snippets in the browser  
 [Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)  
 [Taiga](https://tree.taiga.io/) - Ett webbaserat vektyg för projekthantering. Hanterar SCRUM, KANBAN dokumentation i markdown och annat  
 [Regex101](http://regex101.com/) - Ett verktyg för att förklara och testa regex, så nära en IDE för regex man kan komma.
@@ -73,7 +74,7 @@ Verktyg
 UML / Notation / Software Design
 --------------------------------
 [Gliffy](https://www.gliffy.com/) - Draw UML and Sequence diagram in the browser  
-[yUML](http://yuml.me/) - För att rita enklare UML-diagram snabbt  
-[Web Sequence Diagrams](https://www.websequencediagrams.com/) - För att rita sekvensdiagram snabbt  
+[yUML](http://yuml.me/) - Draw simple UML-diagrams in the browser  
+[Web Sequence Diagrams](https://www.websequencediagrams.com/) - Draw sequence diagrams in the browser  
 
 
