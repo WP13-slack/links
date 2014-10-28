@@ -19,7 +19,8 @@ CSS
 [Bootstrap Calender](http://bootstrap-calendar.azurewebsites.net/) - addon  
 [Bootstrap date/time picker](http://tarruda.github.io/bootstrap-datetimepicker/) - addon  
 [Bootstrap Tags Input](http://timschlechter.github.io/bootstrap-tagsinput/examples/) - addon  
-[Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme
+[Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme  
+[Coolors color palettes generator](http://coolors.co/)  
 
 Git
 ---
@@ -56,6 +57,8 @@ PHP
 [Understanding MVC](https://stackoverflow.com/questions/16594907/understanding-mvc-views-in-php/16596704#16596704)  
 [Why you Should be using PHP's PDO](http://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059) - tutorial  
 [Unit Testing Private Methods and Properties with PHPUnit](http://www.webtipblog.com/unit-testing-private-methods-and-properties-with-phpunit/)  
+[Themosis - A framework for WordPress developers](http://framework.themosis.com/) - framework  
+[Cutlass Wordpress Starter Theme](http://cutlasswp.com/) - Wordpress theme  
 
 Resurser
 --------
