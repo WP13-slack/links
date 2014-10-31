@@ -21,6 +21,7 @@ CSS
 [Bootstrap Tags Input](http://timschlechter.github.io/bootstrap-tagsinput/examples/) - addon  
 [Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme  
 [Coolors color palettes generator](http://coolors.co/)  
+[Using Object-Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass) - tutorial  
 
 Git
 ---
