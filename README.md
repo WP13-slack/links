@@ -22,7 +22,7 @@ CSS
 [Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme  
 [Coolors color palettes generator](http://coolors.co/)  
 [Using Object-Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass) - tutorial  
-
+[Adobe Color Themes](https://color.adobe.com/)
 Git
 ---
 [Git flow](http://nvie.com/posts/a-successful-git-branching-model/)  
@@ -81,4 +81,20 @@ UML / Notation / Software Design
 [yUML](http://yuml.me/) - Draw simple UML-diagrams in the browser  
 [Web Sequence Diagrams](https://www.websequencediagrams.com/) - Draw sequence diagrams in the browser  
 
+Security
+--------
+[OWASP Security Test Guide](https://www.owasp.org/images/5/52/OWASP_Testing_Guide_v4.pdf)
 
+Performance
+-----------
+[Yslow](http://yslow.org/)
+[pingdom](http://tools.pingdom.com/fpt/)
+[webpagetest](webpagetest.org)
+[Bootstrap Pagespeed](http://www.appneta.com/blog/bootstrap-pagespeed/ )
+[Google Pagespeed](http://developers.google.com/speed/pagespeed/insights/)
+
+SEO
+---
+[Moz Paid SEO services](moz.org)
+[Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
+[Google Trends](http://www.google.com/trends/explore)  
