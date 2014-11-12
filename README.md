@@ -22,7 +22,10 @@ CSS
 [Bootstrap Google Material design](http://fezvrasta.github.io/bootstrap-material-design/) - theme  
 [Coolors color palettes generator](http://coolors.co/)  
 [Using Object-Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass) - tutorial  
-[Adobe Color Themes](https://color.adobe.com/)
+[Adobe Color Themes](https://color.adobe.com/)  
+### Typografi
+[Smarter link underlines](https://eager.io/blog/smarter-link-underlines/)  
+
 Git
 ---
 [Git flow](http://nvie.com/posts/a-successful-git-branching-model/)  
